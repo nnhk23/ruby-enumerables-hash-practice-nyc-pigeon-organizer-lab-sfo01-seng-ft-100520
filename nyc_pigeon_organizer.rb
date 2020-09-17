@@ -4,4 +4,5 @@ def nyc_pigeon_organizer(data)
     binding.pry
  a[key] = value
  end
+ binding.pry
 end
