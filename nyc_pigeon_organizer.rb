@@ -5,9 +5,8 @@ def nyc_pigeon_organizer(data)
  value.each do |element|
    element.each do |names|
      names.each do |name|
-     
-binding.pry
 end
+binding.pry
   end
  end
  end
