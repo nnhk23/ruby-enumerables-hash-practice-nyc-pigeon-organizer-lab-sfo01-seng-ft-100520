@@ -1,5 +1,5 @@
 def nyc_pigeon_organizer(data)
-  pigeon = ["Theo", "Peter Jr.", "Lucky", "Ms. K", "Queenie", "Andrew", "Alex"]
-  pigeon_list = {}
-  
+  hash.each_with_object({}) do |(key, value), a|
+ a[k] = v + 3
+ end
 end
