@@ -10,8 +10,8 @@ def nyc_pigeon_organizer(data)
        result[name][key] = []
      end
      result[name][key].push(element.to_s)
-     #binding.pry
   end
  end
  end
+     binding.pry
 end
