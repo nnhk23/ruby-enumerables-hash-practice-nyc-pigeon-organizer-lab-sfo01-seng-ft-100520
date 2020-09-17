@@ -5,7 +5,9 @@ def nyc_pigeon_organizer(data)
  value.each do |element, names|
    names.each do |name|
      if !result[name]
-       result[name] = 
+       result[name] = {}
+      end
+     if !result[name][]
 binding.pry
   end
  end
