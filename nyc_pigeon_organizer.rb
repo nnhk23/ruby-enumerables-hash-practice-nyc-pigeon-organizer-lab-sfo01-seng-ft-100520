@@ -5,6 +5,9 @@ def nyc_pigeon_organizer(data)
  value.each do |index, element|
    element.each do |name|
      {
+       name => {
+         key => 
+       }
   end
  end
  end
